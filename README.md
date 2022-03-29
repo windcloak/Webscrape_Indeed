@@ -5,22 +5,4 @@ Given an indeed search url, this webscraper will list out the jobs on the first 
 
 ## Sample Output
 
-Genpact
-Database Developer
-$120,000 - $135,000 a year
-Dallas, TX
-
-Amazon
-Software Development Engineer
-$120,000 - $160,000 a year
-Remote in Dallas, TX
-
-Indeed
-Software Engineer II - Job Seeker
-$127,000 - $183,000 a year
-Remote in Texas
-
-Indeed
-Software Engineer - Enterprise
-$109,000 - $159,000 a year
-Remote in Texas
+![Sample Output from Webscraper](screencaps/sample_output.jpg)
